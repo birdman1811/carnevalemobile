@@ -141,4 +141,7 @@
       <Name>carnevalemobile</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\CarnevaleLogo.png" />
+  </ItemGroup>
 </Project>
